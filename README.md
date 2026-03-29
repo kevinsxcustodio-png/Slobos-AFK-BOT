@@ -15,7 +15,7 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 
 ## 🛠️ Requirements
 *   **GitHub Account**
-*   **Aternos Server**
+*   **Aternos Server**kevincx6-LvyG.aternos.me:61173
 *   **Render Account** (for 24/7 hosting)
 *   **Common Sense!** 🧠        
 
